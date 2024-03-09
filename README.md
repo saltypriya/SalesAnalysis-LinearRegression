@@ -16,3 +16,5 @@ Objectives:
 4.	Leverage Data-Driven Insights: Utilize data analytics to gain insights into customer behavior, preferences, and demand patterns, enabling informed pricing decisions.
 5.	Machine Learning-Driven Demand Forecasting: Develop machine learning models that accurately predict customer demand for store's products by considering variables such as seasonality, trends, historical sales data, and external factors.
 6.	Price Optimization: Employ machine learning optimization techniques to find the most profitable pricing strategies while considering constraints like inventory levels, profit margins, and competitive positioning.
+
+<img width="461" alt="image" src="https://github.com/saltypriya/SalesAnalysis-LinearRegression/assets/114721913/78233eaa-da33-4fbc-b81b-d8918f1d4d0d">
